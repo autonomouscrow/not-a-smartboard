@@ -12,8 +12,8 @@ For this project, you will need:
 
 #### Clone repository
 ```
-git clone https://git.uwaterloo.ca/hkhawja/se101-team-21.git
-cd se101-team-21
+git clone https://github.com/autonomouscrow/not-a-smartboard.git
+cd not-a-smartboard
 ```
 
 #### Create Python venv
